@@ -8,3 +8,5 @@ you will need two files
 Xeggex_trading_bot.py
 ```
 Contact cryptominer8245@yahoo.com get download of working bot
+
+Contact Discord Cryptominer8245
