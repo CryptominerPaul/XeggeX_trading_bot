@@ -7,7 +7,7 @@ you will need two files
 
 Xeggex_trading_bot.py
 ```
-Contact cryptominer8245@yahoo.com get download of working bot
+Email: cryptominer8245@yahoo.com to get the files of this bot
 
-<a href="https://discord.com/users/412476381725720576">Click here to contact me on Discord: Cryptominer8245</a>
+Click here to contact me on Discord: <a href="https://discord.com/users/412476381725720576">Cryptominer8245</a>
 
