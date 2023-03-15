@@ -39,7 +39,7 @@ pip install prettytable
 pip install python-dotenv
 ```
 
-You will need to update your Private Keys and ``Coin Pairs`` in the .env file
+You will need to update your ``Private Keys`` and ``Coin Pairs`` in the .env file
 Example:
 ```
 # XeggeX  Keys
