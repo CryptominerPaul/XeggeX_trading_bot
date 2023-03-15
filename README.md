@@ -66,9 +66,19 @@ buy_amount = round(random.uniform(0.05, 0.15), 3)
 ```
 add # to the ``order_info =`` line of code to stop the bot order from being placed
 
+To start Bot in Terminal:
+1. `screen -S Xeggex_Trading_Bot` this is the folder where the bot is located
+2. start bot
+```
+python3 Xeggex_bot.py
+```
+3. to exit screen and keep bot running hold the key `Control` and than press keys `a d` at the same time
+4. to resume screen type `screen -r`
+5. to stop bot press `Control c`
+
 Trading Bot Example:
 
-<img src="https://user-images.githubusercontent.com/40405385/225445192-c7b023e7-2922-4252-bd25-16755e2699b9.png" width="50%" alt="Xeggex_bot">
+<img src="https://user-images.githubusercontent.com/40405385/225445192-c7b023e7-2922-4252-bd25-16755e2699b9.png" width="25%" alt="Xeggex_bot">
 
 
 Disclaimer: 
