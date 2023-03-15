@@ -5,7 +5,7 @@ you will need two files
 ```
 .env
 
-Xeggex_trading_bot.py
+Xeggex_bot.py
 ```
 Email: cryptominer8245@yahoo.com to get the files of this bot
 
