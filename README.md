@@ -1,4 +1,4 @@
-# XeggeX_trading_bot
+# XeggeX_bot
 Python Trading bot
 
 you will need two files
