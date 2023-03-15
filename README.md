@@ -12,8 +12,9 @@ Email: cryptominer8245@yahoo.com to get the files of this bot
 Click here to contact me on Discord: <a href="https://discord.com/users/412476381725720576">Cryptominer8245</a>
 
 For Install you will need Python3
-check your version by opening a terminial
+check your version by opening a terminial and type
 ```python3 --version```
+
 Update the package list and upgrade any existing packages:
 ```
 sudo apt-get update
@@ -28,4 +29,12 @@ Verify the installation by checking the Python version:
 python3 --version
 ```
 
-The Bot needs a few imports
+The Bot needs a few library
+
+to Install the library:
+```
+pip install requests
+pip install termcolor
+pip install prettytable
+pip install python-dotenv
+```
