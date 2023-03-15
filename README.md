@@ -59,6 +59,7 @@ sell_amount = round(random.uniform(5, 50), 1)
 max_buy_price = 0.00000150
 buy_price = round(bid_price + 0.00000005, 8)
 buy_amount = round(random.uniform(0.05, 0.15), 3)
+add # to the ``order_info =`` line of code to stop the bot order from being placed
 ```
 Trading Bot Example:
 
