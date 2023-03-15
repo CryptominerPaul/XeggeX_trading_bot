@@ -9,7 +9,7 @@ you will need two files
 ```
 .env
 
-Xeggex_bot.py
+Xeggex_Bot.py
 ```
 Email: cryptominer8245@yahoo.com to get the files of this bot
 
@@ -53,7 +53,7 @@ api_key=
 secret_key=
 ```
 
-In The Bot ``Xeggex_bot.py``
+In The Bot ``Xeggex_Bot.py``
 
 You can update the following lines of code to your stratigies
 ```
@@ -70,7 +70,7 @@ To start Bot in Terminal:
 1. `screen -S Xeggex_Trading_Bot` this is the folder where the bot is located
 2. start bot
 ```
-python3 Xeggex_bot.py
+python3 Xeggex_Bot.py
 ```
 3. to exit screen and keep bot running hold the key `Control` and than press keys `a d` at the same time
 4. to resume screen type `screen -r`
