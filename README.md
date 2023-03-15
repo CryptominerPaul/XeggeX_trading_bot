@@ -1,6 +1,10 @@
 # XeggeX_trading_bot
 Python Trading bot
 
+1. Market Making
+2. Wash Trading
+3. Info (Balances, Markets, Market Depth{bids & asks})
+
 you will need two files
 ```
 .env
@@ -59,8 +63,9 @@ sell_amount = round(random.uniform(5, 50), 1)
 max_buy_price = 0.00000150
 buy_price = round(bid_price + 0.00000005, 8)
 buy_amount = round(random.uniform(0.05, 0.15), 3)
-add # to the ``order_info =`` line of code to stop the bot order from being placed
 ```
+add # to the ``order_info =`` line of code to stop the bot order from being placed
+
 Trading Bot Example:
 
 <img src="https://user-images.githubusercontent.com/40405385/225445192-c7b023e7-2922-4252-bd25-16755e2699b9.png" width="50%" alt="Xeggex_bot">
