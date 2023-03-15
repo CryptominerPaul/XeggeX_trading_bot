@@ -38,3 +38,14 @@ pip install termcolor
 pip install prettytable
 pip install python-dotenv
 ```
+
+You will need to update your Private Keys and ``Coin Pairs`` in the .env file
+Example:
+```
+# XeggeX  Keys
+# Api-Key
+api_key=
+# Api-Secret-Key
+secret_key=
+```
+
