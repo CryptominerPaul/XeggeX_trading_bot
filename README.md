@@ -29,9 +29,9 @@ Verify the installation by checking the Python version:
 python3 --version
 ```
 
-The Bot needs a few library
+The Bot needs a few libraries
 
-to Install the library:
+to Install the libraries:
 ```
 pip install requests
 pip install termcolor
