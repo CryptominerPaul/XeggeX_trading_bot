@@ -11,6 +11,10 @@ You will need two files to run the bot
 ```
 mkdir Xeggex_Trading_Bot
 ```
+than 
+```
+cd Xeggex_Trading_Bot
+```
 2. Download files to the new directory you just created
 ```
 .env
