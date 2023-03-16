@@ -48,9 +48,9 @@ Example:
 ```
 # XeggeX  Keys
 # Api-Key
-api_key=
+api_key=ENTER_YOUR_KEY_HERE
 # Api-Secret-Key
-secret_key=
+secret_key=ENTER_YOUR_KEY_HERE
 ```
 
 In The Bot ``Xeggex_Bot.py``
