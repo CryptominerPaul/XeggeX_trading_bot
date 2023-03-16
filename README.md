@@ -5,7 +5,13 @@ Python Trading bot
 2. Wash Trading
 3. Info (Balances, Markets, Market Depth{bids & asks})
 
-you will need two files
+You will need two files to run the bot
+
+1. Make a directory for the files for the bot 
+```
+mkdir Xeggex_Trading_Bot
+```
+2. Download files to the new directory you just created
 ```
 .env
 
