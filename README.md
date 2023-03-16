@@ -56,6 +56,10 @@ pip install python-dotenv
 You will need to update your ``Private Keys`` and ``Coin Pairs`` in the .env file
 Example:
 ```
+nano .env
+```
+
+```
 # XeggeX  Keys
 # Api-Key
 api_key=ENTER_YOUR_KEY_HERE
