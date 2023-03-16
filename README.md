@@ -58,8 +58,10 @@ api_key=ENTER_YOUR_KEY_HERE
 # Api-Secret-Key
 secret_key=ENTER_YOUR_KEY_HERE
 ```
-
-In The Bot ``Xeggex_Bot.py``
+In The Bot.py using nano command you can change lines of code 
+```
+nano Xeggex_Bot.py
+```
 
 You can update the following lines of code to your stratigies
 ```
