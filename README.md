@@ -11,7 +11,7 @@ You will need two files to run the bot
 ```
 mkdir Xeggex_Trading_Bot
 ```
-than 
+then 
 ```
 cd Xeggex_Trading_Bot
 ```
