@@ -1,4 +1,4 @@
-# XeggeX_trading_bot
+# XeggeX_Trading_Bot
 Python Trading bot
 
 1. Market Making
