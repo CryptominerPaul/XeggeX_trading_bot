@@ -21,7 +21,7 @@ cd Xeggex_Trading_Bot
 
 Xeggex_Bot.py
 ```
-Email: cryptominer8245@yahoo.com to get the files of this bot
+Email: cryptominer8245@yahoo.com to buy the files of this bot or you can arrange a rental were I run and maintain it for you
 
 Click here to contact me on Discord: <a href="https://discord.com/users/412476381725720576">Cryptominer8245</a>
 
