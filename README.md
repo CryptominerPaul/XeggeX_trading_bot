@@ -2,7 +2,7 @@
 Python Trading bot
 
 1. Market Making
-2. Wash Trading
+2. Volume Trading
 3. Info (Balances, Markets, Market Depth{bids & asks})
 
 You will need two files to run the bot
